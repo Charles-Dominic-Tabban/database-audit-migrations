@@ -1,0 +1,7 @@
+# Keep database backups private
+*.dump
+*.backup
+
+# Keep credentials and local secrets out of GitHub
+.env
+.env.*
